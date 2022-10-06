@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.decor-art.com.pl	TRUE	/	FALSE	1999999999	SESS55a0102251b2066d946c8def2cba4464	c3471bdd9cc9bd2b45fa49626238d48b
+
